@@ -10,12 +10,12 @@ div {
     padding-right: 30px;
     padding-bottom: 50px;
     padding-left: 80px;
-    opacity: 0.3;
-    text-align: center;
-    color: #ffffff;
+    opacity: 0.9;
 }
 
-
+div.list {
+    margin-left: auto;
+}
 
 
 
@@ -34,17 +34,53 @@ h3 {
     text-align: center;
 }
 
+h4 {
+    color: #ffffff;
+    text-align: center;
+    opacity: 1;
+}
+
+ul.first {
+    
+    list-style-type: disc;
+    padding-left: 45%;
+    background-color:#cdc9c3 ;
+    color: #ffffff;
+    opacity: 1;
+    
+}
+ul.second {
+    
+    list-style-type: square;
+    margin-left: auto;
+    background-color:#cdc9c3 ;
+    color: #ffffff;
+    opacity: 1;
+}
+
+
+ul li {
+    margin-left: 5px;
+}
+
 p {
     text-align: center;
     color: #ffffff;
+    opacity: 1;
 }
 
 a:link {
+    text-align: center;
     color: blue;
+    opacity: 1;
 }
 a:visited {
+    text-align: center;
     color: maroon;
+    opacity: 1;
 }
 a:hover {
+    text-align: center;
     color: white;
+    opacity: 1;
 }
