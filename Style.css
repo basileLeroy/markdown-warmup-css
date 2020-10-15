@@ -1,0 +1,50 @@
+body {
+    background-image: url("assets/background.png");
+    border: 1px solid #fbf7f0;
+}
+
+div {
+    border: 2px solid #fbf7f0;
+    background-color: #cdc9c3;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+    opacity: 0.3;
+    text-align: center;
+    color: #ffffff;
+}
+
+
+
+
+
+h1 {
+    color: #ffffff;
+    text-align: center;
+}
+
+h2 {
+    color: #ffffff;
+    text-align: center;
+}
+  
+h3 {
+    color: #ffffff;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    color: #ffffff;
+}
+
+a:link {
+    color: blue;
+}
+a:visited {
+    color: maroon;
+}
+a:hover {
+    color: white;
+}
